@@ -2,7 +2,7 @@
 
 ## Profile
 
-Economics graduate with proven expertise in data analysis, business intelligence, and financial analytics. Proficient in Excel VBA, Power BI, PowerQuery, and Tableau, with ongoing development in DAX and SQL for advanced data modelling and reporting. Strong foundation in quantitative analysis, data visualisation, and performance measurement, consistently delivering actionable insights to support strategic business decisions.
+Economics graduate with proven expertise in data analysis, business intelligence, and financial analytics. Proficient in Excel VBA, Power BI, PowerQuery, and Tableau, with ongoing development in DAX, Python and SQL for advanced data modelling and reporting. Strong foundation in quantitative analysis, data visualisation, and performance measurement, consistently delivering actionable insights to support strategic business decisions.
 
 Completed the Microsoft Power BI Data Analyst Professional Certificate (2025), Google Advanced Data Analytics Professional Certificate (2025), Google Data Analytics Professional Certificate (2025), Google Cloud Data Analytics Professional Certificate (2025), and Tableau Business Intelligence Analyst Professional Certificate (2024).
 
